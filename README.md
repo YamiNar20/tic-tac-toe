@@ -13,6 +13,8 @@ Once a player has achieved this; there will be a winner. Once the game is over a
 ## Screenshots
 
 <! Images of the Game during gameplay -->
+![alt text](https://github.com/YamiNar20/tic-tac-toe/assets/128421560/5cf17fe3-534f-4e9d-88fb-994ab6defd27)
+
 
 ## Technologies Used
 -HTML5

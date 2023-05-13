@@ -14,7 +14,6 @@ Once a player has achieved this; there will be a winner. Once the game is over a
 
 <! Images of the Game during gameplay -->
 
-
 ## Technologies Used
 -HTML5
 - CSS3

@@ -39,5 +39,6 @@ As a user, I should be able to click reset and start the game.
 
 ## Getting Started
 - Link to developed project
+-file:///Users/yamilethnarvaez-suastequi/tic-tac-toe/index.html
 
 ## Future Enchancements

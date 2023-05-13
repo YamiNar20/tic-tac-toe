@@ -8,7 +8,7 @@ You begin a new game by selecting a square. Once the square/ button has been cli
 
 RULES:
 * The goal of the game is to receive 3 in a row horizontally, vertically, or diagonally by placing your game piece.
-Once a player has achieved this; there will be a winner. Once the game is over a player would reset the game by pressing the Play Again!! button and it will start a new game.
+Once a player has achieved this; there will be a winner. To be the winner of the game you must win 3 out 5 times. Once the game is over a player would reset the game by pressing the Play Again!! button and it will start a new game.
 
 #Data 
 const- Wining Combinations-Array
